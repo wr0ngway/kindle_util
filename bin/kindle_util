@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "kindle_util"
+
+KindleUtil::CLI.run
